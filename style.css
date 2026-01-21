@@ -18,15 +18,14 @@ article {
   color: #000;
 }
 
-
-
 .flex-images {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 footer {
   height: 150px;
   padding: 20px;
+  line-height: 110px;
 }
