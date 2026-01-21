@@ -1,9 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+}
+
 header {
   height: 100px;
   padding: 10px;
 
   background: #3939c8;
   color: #fff;
+}
+
+article {
+  background: #aaaaff;
+  color: #000;
 }
 
 
